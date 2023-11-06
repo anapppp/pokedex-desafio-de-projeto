@@ -1,6 +1,6 @@
 # Pokédex
 
-Essa é uma Pokédex simples que aprendi a fazer no [Potência Tech iFood - Desenvolvimento de Jogos](https://www.dio.me/bootcamp/potencia-tech-ifood-desenvolvimento-de-jogos), usando CSS e HTML. O desafio foi fazer com que a página respondesse ao tamanho da tola. 
+Essa é uma Pokédex simples que aprendi a fazer no [Potência Tech iFood - Desenvolvimento de Jogos](https://www.dio.me/bootcamp/potencia-tech-ifood-desenvolvimento-de-jogos), usando CSS e HTML. O desafio foi fazer com que a página respondesse ao tamanho da tela. 
 
 Veja o resultado:
 
